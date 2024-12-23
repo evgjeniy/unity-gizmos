@@ -1,0 +1,14 @@
+{
+    "name": "Genity.Gizmos.Editor",
+    "rootNamespace": "Genity",
+    "references": [ "GUID:df1aee38bf31afd49b8c4ab8ceb52aec" ],
+    "includePlatforms": [ "Editor" ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

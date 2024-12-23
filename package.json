@@ -1,0 +1,17 @@
+{
+  "name": "com.genity.gizmos",
+  "author": {
+    "name": "evgjeniy",
+    "url": "https://github.com/evgjeniy"
+  },
+  "displayName": "Unity Gizmos",
+  "description": "Useful extensions for drawing gizmos in Unity Engine",
+  "documentationUrl": "https://github.com/evgjeniy/unity-gizmos/blob/main/README.md",
+  "licensesUrl": "https://github.com/evgjeniy/unity-gizmos/blob/main/LICENSE.md",
+  "version": "1.0.0",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evgjeniy/unity-gizmos.git"
+  }
+}

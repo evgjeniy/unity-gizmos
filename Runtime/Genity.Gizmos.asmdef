@@ -1,0 +1,20 @@
+{
+    "name": "Genity.Gizmos",
+    "rootNamespace": "Genity",
+    "references": [ "GUID:42ae768c3f59a55499f9b3681b8ed3ff" ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.genity.overlap",
+            "expression": "1.0.0",
+            "define": "GENITY_OVERLAP"
+        }
+    ],
+    "noEngineReferences": false
+}
